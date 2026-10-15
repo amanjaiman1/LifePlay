@@ -1,0 +1,2 @@
+reportlab>=4.0     # PDF generation (build_audit.py)
+pymupdf>=1.23      # QA checks and page previews (qa_check.py)
